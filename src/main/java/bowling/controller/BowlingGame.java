@@ -5,7 +5,6 @@ import bowling.domain.player.Player;
 
 import java.util.List;
 import java.util.stream.Collectors;
-import java.util.stream.Stream;
 
 public class BowlingGame {
     private static final int FIRST_INDEX = 0;

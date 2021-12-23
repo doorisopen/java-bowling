@@ -53,10 +53,6 @@ public class GameInfo {
         return result;
     }
 
-    public int noOf(Frame frame) {
-        return frames.noOf(frame);
-    }
-
     public int currentFallDownPinsCountOf(Frame frame) {
         return frames.currentFallDownPinsCountOf(frame);
     }

@@ -3,7 +3,6 @@ package bowling.domain.frame;
 import bowling.domain.pitch.Pitch;
 import bowling.domain.score.Score;
 import bowling.domain.state.State;
-import bowling.domain.state.end.End;
 import bowling.domain.state.progress.Start;
 import bowling.strategy.PitchNumberStrategy;
 

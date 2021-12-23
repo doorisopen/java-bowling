@@ -58,10 +58,6 @@ public class Frames {
                 .collect(Collectors.toList());
     }
 
-    public int noOf(Frame frame) {
-        return frames.get(indexOf(frame)).no();
-    }
-
     public int currentFallDownPinsCountOf(Frame frame) {
         return frames.get(indexOf(frame)).currentFallDownPinsCount();
     }
